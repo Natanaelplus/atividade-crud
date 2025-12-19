@@ -1,1 +1,2 @@
 venv filter=lfs diff=lfs merge=lfs -text
+C:/dsv/atividade-crud/venv filter=lfs diff=lfs merge=lfs -text
